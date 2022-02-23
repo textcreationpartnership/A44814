@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remarkable letter of Mary Howgill to Oliver Cromwell, called Protector a copy whereof was delivered by her self to his own hands some moneths ago, with whom she had face to face a large discourse thereupon : unto which is annexed a paper of hers to the inhabitants of the town of Dover.</title>
+            <author>Howgill, Mary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44814</idno>
+            <idno type="STC">Wing H3191</idno>
+            <idno type="STC">ESTC R6657</idno>
+            <idno type="EEBO-CITATION">13506250</idno>
+            <idno type="OCLC">ocm 13506250</idno>
+            <idno type="VID">99804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 791:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remarkable letter of Mary Howgill to Oliver Cromwell, called Protector a copy whereof was delivered by her self to his own hands some moneths ago, with whom she had face to face a large discourse thereupon : unto which is annexed a paper of hers to the inhabitants of the town of Dover.</title>
+                  <author>Howgill, Mary.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold at the Black Spread-Eagle at the west-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Mary Howgill.  Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Howgill, Mary.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99804:1"/>
+            <pb facs="tcp:99804:1" rendition="simple:additions"/>
+            <p>A REMARKABLE LETTER OF <hi>MARY HOWGILL</hi> TO <hi>OLIVER CROMWEL,</hi> CALLED PROTECTOR.</p>
+            <p>A Copy whereof was delivered by her ſelf to His own hands ſome Moneths ago, with Whom ſhe had Face to Face a large Diſcourſe thereupon.</p>
+            <p>UNTO WHICH Is Annexed a Paper of Hers directted to the Inhabitants of the Town of DOVER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold at the black <hi>Spread-Eagle</hi> at the Weſt-end of <hi>Pauls.</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99804:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:99804:2" rendition="simple:additions"/>
+            <head>To Thee <hi>OLIVER CROMWEL.</hi>
+            </head>
+            <p>WHen thou waſt a Souldier for the Lord, thou waſt low, and little in thine own eyes; then thou remembredſt the Lord, and ſtood in his fear, and he was thy ſtrength; but now thou art in thy own ſtrength, and haſt forgot that time: I ſay, thou haſt denied the Lord God, and thy own law with the pride of thy own heart; and the pride of thy heart is now acting all manner of cruelty againſt them who are in the fear of the Lord.</p>
+            <p>When thou waſt low, the Lord was thy ſtrength, but now thou haſt departed from him, and thy ſtrength is in man; thou haſt truſted in the arm of fleſh, and not in God; thou haſt choſen the glory of this world, and art as a ſtinking dunghil in the ſight of God; thou haſt ſhut thy ſelf out of the kingdom, and them who are in the kingdom, all manner of evil is done and acted to them in thy name; and ſo thou haſt ſtrengthened all the wicked, and in ſtead of ſerving the Lord, thou haſt ſerved thy own glory, and thy own pleaſures, and thou art going on in all thy power; but verily him whom thou once ſerved, which thou now art turned from, he will overtake thee, for thou haſt almoſt filled up thy meaſure; many fair things haſt thou promiſed to them whom the Lord is their ſtrength, but they ſee thee, and all thy ſubtilty: For verily, haſt not thou ſuffered in thy name (whoſe name is <hi>Oliver</hi> Lord Protector) many bloody actions to be done in thy name? And he that protects thee now is unrighteous Mam<g ref="char:EOLhyphen"/>mon, and ſo him that is our Protector will rule thee, to him muſt thou bow, for verily the law of God ſhall overturn thee: And when thou haſt filled up thy meaſure in thy cruel bloody actions, who haſt ſuffered the innocent to be perſecuted, yea unto death; and ſome hath ſuffered ſto<g ref="char:EOLhyphen"/>ning and ſore bruiſing.</p>
+            <p>Therefore in the name of the Lord God, whom we ſerve, and whom once thou truſtedſt in, verily, I ſay unto thee, thy condition above all men is moſt lamentable; for them who are born again, and witneſs a new birth in him, whom we receive tribute from; we are all ſouldiers againſt all ſin and deceit, and have overcome death, hell, and the grave; and being of them who partake of the Reſurrection of Chriſt, the ſecond death hath no power over. And ſo in the power of God we all ſtand to follow the Lamb where<g ref="char:EOLhyphen"/>ever
+<pb n="2" facs="tcp:99804:3" rendition="simple:additions"/>
+he goes, and ſo we follow the Lord in the new generation. But I ſay unto thee, thou haſt forgot thy promiſe, and what the Lord did for thee, when he gave thee victory over unreaſonable men.</p>
+            <p>Woe is me for thee, that ever thou ſhouldeſt depart from that of God that was once in thee, and haſt truſted in the arm of fleſh, and ſo thou art one with them whom once thou foughteſt againſt! For there is that in thy conſcience will let thee ſee thou art one with a proud man, one with a drunken man, one with a covetous man, and one with all them that are in the evil, the light in thy conſcience wil let thee ſee all theſe things; for ve<g ref="char:EOLhyphen"/>rily, that in thee which ſhould have brought forth fruit unto God, hath brought forth nothing but wilde grapes, brambles, briers, and thorns; and Crown <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which thou haſt now is nothing but thorns.</p>
+            <p>Oh! thou hadſt better had the Angels to have guarded thee, and the Lord to have protected thee, then to have truſted in the arm of fleſh.</p>
+            <p>For verily his Son is brought forth in them who have believed in his name, and all the Angels ſhall worſhip him: But thou haſt crucified the Son of God, and haſt choſen thy own way, and thy own ſtrength, and thou art one with all them who are ſet againſt Chriſt; for verily I ſay un<g ref="char:EOLhyphen"/>to thee, he will overtake thee when thou haſt filled up thy meaſure; for he who is Lord of heaven and earth, is ready to deliver thee into the hands of thy enemies within and without; for I ſay unto thee, thy way is now darkneſſe, and thou haſt turned thy back on him who is all our ſtrength and light, in whoſe ſtrength, I tell thee, thou haſt even owned him who is the god of this world, and the glory of the world is thy portion and de<g ref="char:EOLhyphen"/>light, and that which is of another world is crucified by thee.</p>
+            <p>Oh! my heart is ſad for thee, that ever thou ſhouldeſt be found where thou art; many true meſſengers the Lord hath ſent to thee for the good of thy ſoule; but thou wouldeſt not lend thy ears to them, and ſo thou muſt have no peace with them; for them who would have loved thy ſoul, thou wouldſt not hear, and the ſoul is more worth then the glory of this world. But verily thou muſt have thy portion amongſt them who are in their own glory; for we who know the Lord, and have found him whom our ſouls loved, our glory is not of this world, nor in our own glory, nor in our own ſtrength, but in the Lord our God, who is our glory, and hath crowned us with his everlaſting glory, and we ſtand in his glory, and in his power, and ſo we ſtand in the righteouſneſs of God, who hath brought us into the innocencie, and in that we know our being and our habitation with the Lord, and with him to reign for evermore; for <hi>them who ſuffer with him ſhall reign with him.</hi> But thou, where thou ſtandeſt, thy reign ſhall be but for a time, for miſery and great condemnation ſhall be thy portion, and all them who have forgotten the Lord our God; for we have the Lord to be our ſtrength, and thou who acts againſt him, the time is come that we are juſtified, and with him that juſtifies us ſhalt thou be condemned, and thou ſhalt know that thou hadſt better that thy tongue had been cloven to the roof of thy mouth, ere theſe things had been
+<pb n="3" facs="tcp:99804:3" rendition="simple:additions"/>
+acted in thy name (we are kept in perfect peace) And them who hav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuffered to death in priſon, their blood, yea the blood of the innocent ſha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be required of thee, whom the Lord ſet in the place, but thou haſt departed from that place; and ſo thou doſt not, nor canſt not bear rule for God, but againſt him; but he is comming upon thee, whom thou haſt acted a<g ref="char:EOLhyphen"/>gainſt, which thou ſhalt know, and all thy gallant glory will he bring down; for no fleſh ſhall glory in his preſence, for dreadful will he be to thy glory, even him whom thou haſt crucified, the Lamb ſlain from the foundation of the world: I ſay unto thee in the name of the Lord, whom we all know, and for whom we are a witneſs againſt thee, this ſhall witneſs for us; for thou muſt have condemnation with the light which thou haſt turned from, which witneſs is in thy conſcience, which thou once waſt in, and heard ſpeak, and breathed after the Lord, and many dear ſervants of God have warned thee of thy earthly glory; the Lord did ſend me once before now to thee, for the good of thy ſoul, and I could have done any thing once for thee, for the ſeeds ſake, that thou mightſt have known the way of truth; but thou haſt counted us all of ſmall worth.</p>
+            <p>Woe is me for thee, that thou canſt not ſee him whom thou haſt pier<g ref="char:EOLhyphen"/>ced, nor canſt lay it to heart what thou haſt done.</p>
+            <p>I told thee once before, that thou hadſt crucified the Lamb of God, and trodden the blood of the new Covenant under thy feet, and counted it a vain thing: Thou aſkedſt me once what it was; and I told thee the blood of Chriſt cleanſed from all ſin, and his water waſhed, and his Spirit made alive; but thou couldeſt not receive theſe things, for all the cry that thou couldeſt hear which was in thee; for verily I ſay, thou couldeſt not hear, but haſt hardened thy heart; for the righteous hath cried to thee for righ<g ref="char:EOLhyphen"/>teouſneſs ſake but it could not be heard, neither in thy ſelf, nor in others; and all that ever thou didſt do for God is now in vain, for thou haſt now choſen thy own way, and ſo the cry could never be heard, how the righte<g ref="char:EOLhyphen"/>ous hath cried for righteouſneſs ſake, that they might have had Juſtice in the Land, that many a one might have worſhipped God without any di<g ref="char:EOLhyphen"/>ſturbance.</p>
+            <p>Thou haſt ſuffered thy ſouldiers, which are in the abomination with thy ſelf, to diſturb peaceable meetings, and to hale men to priſon: Thou haſt many colours for thy deceit, but thou haſt none for theſe men which were met peaceably together; for violently they came amongſt them with their horſes, and acted violently, by treading amongſt ſimple and harm<g ref="char:EOLhyphen"/>leſs people.</p>
+            <p>Oh! what ſhameleſs things are done in thy name, and by thy authori<g ref="char:EOLhyphen"/>ty? yea verily the righteous ſpirit of God is grieved with thee: And all theſe things ſhalt thou know; for all the cunning and ſubtilties of thy heart is ſeen and known by them who are come into the everlaſting ſpirit: And when thou giveſt account or all thoſe actions which have been acted by thee, and in thy name, and by thy power, oh what a day will it be with thee! For as my ſoul lives, theſe things ſhall be laid all to thy charge:
+<pb n="4" facs="tcp:99804:4" rendition="simple:additions"/>
+And for us, whom the Lord hath redeemed from the vain-glory of the world, and hath graffed us into himſelf, he will plead our cauſe, yea the righteous cauſe of himſelf, and he will make thee an example to all great ones in the world; and when that day comes upon thee, thou ſhalt me remember, that thou waſt warned of all thy evil</p>
+            <closer>
+               <signed>By a Lover of thy ſoul, whoſe name in the fleſh is <hi>MARY HOWGILL</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>This in one of its firſt Copies was delivered to <hi>Oliver Cromwels</hi> own hands by the Author her ſelf, at or about the eighth day of the fourth moneth 1656. about ten a clock at night, with whom thereupon ſhe had much diſcourſe.</p>
+            </postscript>
+         </div>
+         <div type="text">
+            <p>TO all you Diſputers at <hi>Dover,</hi> and all other Towns in the County of <hi>Kent,</hi> who, ſome of you, would have a three-fold Light, and you are diſputing with that which is darkneſs; neither can you come to the true Light which is in God, becauſe you are ſhut up in darkneſs, and cannot underſtand the things of God, but by your darkneſs and diſputings calls good evil, and evil good: How is it that you refrain in darkneſs, but becauſe you hate the Light which ſhould bring you out of darkneſs. And you <hi>Anabaptiſts,</hi> who have another colour, a finer colour for deceit then the Prieſts of <hi>England</hi> have, a greater abomination to the Lord<g ref="char:punc">▪</g> in the Light of the Lord you are ſeen and diſcovered; you who have <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſed your ſelves up in that great abomination, which is fornication, you are found in Idolatry, and the mother of that Idolatry is a whore; You who are contending about Water-Baptiſm, I ſay, in the Lords Light you and your Baptiſm is ſeen by them who are baptized with the true ſpiritual Ba<g ref="char:EOLhyphen"/>ptiſm, which is, to be baptized with Fire and the Holy Ghoſt, by one death into one body, which joynes to the Lord; and they are not they which joyns to the Harlot, nor to the Whore, but they are joyned through the death by the Word of God, which baptized into the death, and that Baptiſm takes ſin away: But ſee what your outward elementary Water-Baptiſm hath done for you, or what it will, or is able to do for you; you who live in pride and envy, perſecuting them who are born again by the word of God, which leads into the Spirit of God; your gay and glorious cloathing, its of your ſelves, and of the whoriſh woman, which hath the cup of abomination in her hand, and you are found in an ill ſmell, ſtink<g ref="char:EOLhyphen"/>ing in the noſtrils of God: Some of you, I ſay, are digging and pruning; ſome of you with your Water-Baptiſm, and ſome of you eating bread and drinking wine, and ſay it is a command of God; but the time is come that your outward Water-Baptiſm, and Eating and Drinking is ſeen, and in the
+<pb n="5" facs="tcp:99804:4" rendition="simple:additions"/>
+light of the Lord you are weighed and tried in the even ballance, and you are all found too light, and with the Light are to be condemned; a day of terror will overtake you; a day of ſorrow, and all your gallant fleſh ſhal come down, and you ſhall be laid waſte, all you who have exalted your ſelves by your own works; it is your own works, and your own ordinan<g ref="char:EOLhyphen"/>ces, which hath ſhut you of the Kingdom of God, and the fear of God you have loſt, and are out of the croſs of Chriſt, which you do not know, but have it left behind you, and ſo the Lord God is comming to make waſte all you builders of this County of <hi>Kent,</hi> the Lord God is comming to rec<g ref="char:EOLhyphen"/>kon with you, a day of thunder ſhall come upon you, and that ſpeedily, which will make your works abomination, for I ſay you of all people are moſt lamentable, the righteous Spirit of God is grieved with you, the ſeed of God is ſlain by you, which is the ſeed of the Son, yea the righteous blood is trodden down by you, and that blood are we cleanſed by, which is the blood of the Lamb, and them who drink of it, it taketh away all guilt of ſin, and there is no ſin remaining where guilt is taken away; the Son of God hath redeemed us from all evil, and there is no evil in them who are in the Son; the Angel is flying thorow heaven with the everlaſting Goſpel, and you who will be waſhed by outward water ſee now your blindneſs; and you who are raking in the Scriptures to find the way to God out, I ſay you ſhall not find it there, nor the word of God is not there, for the word of God, which was in the beginning, we who have found it, by it we were led into the way; God and his Word is one, and by his Word we were wounded, &amp; it laid deſolate all our own buildings, and by the word of God the Son of God was redeemed, and the true faith in God was witneſſed, and that which gave victory over the world is God, and the Word and he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; ſo we witneſs the Scripture fulfilled in us: And ſome of you aſketh queſtions, whether the reading of the Scripture is of none effect to them who are in the fall? I anſwer, you have made them of none effect by your <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fallen wiſedom, with your pride, who live in all manner of evil, and in the earthly nature, who with the earthly nature crucifies him who gave the Scripture forth; for he gave it forth for a true declaration of the Light, Life, and Way to the Father, which Light, Life, and Way, are the true way to walk by; and you live in all manner of evil, you do not walk ac<g ref="char:EOLhyphen"/>cording to it, but contrary to it, and ſo to you it is of none effect; for it is theirs who are learned of the Lord, and are in his fear, they are the Lords, and the Scripture is theirs as they witneſs them; and the Lord God is <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ming to take vengeance upon you, who will not be warned; yea, I ſay, he will make you all afraid at his comming, and he will ſilence all you vain d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſputers; a day of vengeance is coming upon you, the fierce indignation <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord ſhall overtake you, becauſe of your abominations; for your a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>minations are ſo great, that the innocencie of God is loſt by them, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord God is coming to take hold of you all, yea all of you filthy and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roud Sodomites, who are found in the evil, your gold rings, and counter<g ref="char:EOLhyphen"/>fit jewels ſhall be pulled off, for your jewels are not the true jewels of
+<pb n="6" facs="tcp:99804:5" rendition="simple:additions"/>
+God: And you who ſay the Lord will have a willing people, you are <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ling to the God you ſerve, even the Prince of the Air; your jewels, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your willingneſs, and your filthy garments inwardly and outwardly, the Lord God wil deſtroy, the Lord God wil have his own in you, he is appear<g ref="char:EOLhyphen"/>ing, which is ſtronger then the man of ſin in you; a warning to all ſorts of Profeſſion which hath no poſſeſſion, but hath loſt the fear of God; he who is the Poſſeſſion, and the Subſtance, and Life, and Light, with it you ſhall be condemed, and then you ſhall remember your abominations; the Land ſhall mourn no longer by you; the Lord God with h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s pure righteous Law ſhall take hold of you, and he ſhall eaſe the creation of you; you who have cumbred the ground ſo long, and have been unfruitful, you have diſhonou<g ref="char:EOLhyphen"/>red your Head, but he who is Head over heaven &amp; earth, I te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l you, will <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down all fruitleſs trees, and throw them into the fire, and ſo he will have his own: And you are all hereby warned of your evil, and all your profeſ<g ref="char:EOLhyphen"/>ſion will be in vain to you at that day; for the Lord God is righteous, and you unrighteous ones ſhall me remember that you were warned of all your evil, that you may return while you have time to return; the Law of God ſhall take hold on you, and the coming of the Son of man ſhall be like the roaring of a lion; the lions and the bears ſhall roar, and the earth ſhall paſs away with a great noiſe; he ſhall come upon you ſuddenly, and the end of your work ſhall be deſtruction, the power of the Son of God ſhall all your works deſtroy.</p>
+            <closer>
+               <dateline>Given forth by the Spirit of the Lord againſt all deceit
+<date>7. day the 5. moneth, 1656.</date>
+               </dateline>
+               <signed>
+                  <hi>By a true lover of all your ſouls, who hath a new name given from above, which is not earthly nor carnal as yours are, though <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the outward called</hi> MARY HOUGHIL.</signed>
+            </closer>
+            <pb facs="tcp:99804:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
